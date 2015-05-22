@@ -15,3 +15,7 @@ Download Hyle Panel.jsx and copy it in your startup scripts folder.
 
  - OS X: `/Applications/Adobe After Effects CC 2014/Scripts/ScriptUI Panels`
  - Windows: `Program Files\Adobe\Adobe After Effects <version>\/Support Files/Scripts/Script UI Panels`
+
+## Warning
+
+The script is still in an early stage. It still needs work and real situations to be thrown at it in order to mature. The script has it’s own automatic updater though. So whenever a new version is tagged, all user will be asked if they want to download it, and the script will update itself to the latest version hosted here on Github.
